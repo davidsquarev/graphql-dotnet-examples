@@ -1,3 +1,5 @@
+Build and run it via VS2022, then connect or query http://localhost:3000/graphql
+
 # ASP.NET Core GraphQL Example
 
 ```
